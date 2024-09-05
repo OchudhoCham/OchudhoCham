@@ -1,5 +1,5 @@
 <h1 align="center">Hello World, I'm Ochudho</h1>
-<h3 align="center">Software Developer, Living in Juba, South Sudan</h3>
+<h3 align="center">A Software Developer, Living in Juba, South Sudan</h3>
 <img align ="right" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochudhocham&label=Profile%20views&color=0e75b6&style=flat" alt="ochudhocham" /> </p>
