@@ -1,16 +1,18 @@
 <h1 align="center">Hi 👋, I'm Ochudho</h1>
 <h3 align="center">Software Developer | Educator</h3>
-<img align ="right" width ="400"src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
+<img align ="right" src="https://miro.medium.com/v2/resize:fit:750/format:webp/1*ZSVmWGcc1weENb0ShawWxw.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ochudhocham&label=Profile%20views&color=0e75b6&style=flat" alt="ochudhocham" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=ochudhocham" alt="ochudhocham" /></a> </p>
-
 <p align="left"> <a href="https://twitter.com/ochudhocham" target="blank"><img src="https://img.shields.io/twitter/follow/ochudhocham?logo=twitter&style=for-the-badge" alt="ochudhocham" /></a> </p>
+
+- 🔭 I’m currently working on [Online Supermarket Management System using php](https://github.com/ochudhocham/supermarket.git)
 
 - 🌱 I’m currently learning **AI & Machine Learning**
 
 - 👯 I’m looking to collaborate on **Open Source Projects**
+
+- 💬 Ask me about **PHP, Flask and Django**
 
 - 📫 How to reach me **ochudho.c@gmail.com**
 
@@ -20,6 +22,8 @@
 <p align="left">
 <a href="https://twitter.com/ochudhocham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ochudhocham" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/http://linkedin.com/in/ochudho-cham-3792aa236" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="http://linkedin.com/in/ochudho-cham-3792aa236" height="30" width="40" /></a>
+<a href="https://fb.com/ochudhocham" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="ochudhocham" height="30" width="40" /></a>
+<a href="https://instagram.com/ochudhoc" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ochudhoc" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,3 +33,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ochudhocham&show_icons=true&locale=en" alt="ochudhocham" /></p>
 
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ochudhocham&" alt="ochudhocham" /></p>
